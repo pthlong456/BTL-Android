@@ -22,7 +22,7 @@
                 android:layout_marginTop="93dp"
                 android:layout_gravity="center_horizontal"
                 android:textColor="@color/white"
-                android:text="New Password Note"
+                android:text="New Note"
                 android:textSize="30dp"/>
 
         </FrameLayout>
